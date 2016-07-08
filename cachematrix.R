@@ -13,7 +13,7 @@
 ## setinverse() - sets inverse of the matrix
 ## getinverse() - returns invrese of the matrix
 
-## In short this function returns an object that can be used to 
+## In short, this function returns an object that can be used to 
 ## set and get, matrix and inverse values
 
 makeCacheMatrix <- function(x = matrix()) {
